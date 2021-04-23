@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiahdavis)](https://github.com/josiahdavis/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiahdavis&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) [![Josiah's Github stats](https://github-readme-stats.vercel.app/api?username=josiahdavis&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl)]((https://github.com/anuraghazra/github-readme-stats))
 
 - 🔭 I’m currently working on ML Max, templates for production ML.
 - 🌱 I’m currently learning about Design Patterns.

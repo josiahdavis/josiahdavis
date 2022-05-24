@@ -17,7 +17,7 @@ Recently, I left the consulting world, and took on a new focus in Amazon's [Supp
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiahdavis&theme=nightowl&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davjosia&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) [![Baichuan's Github stats](https://github-readme-stats.vercel.app/api?username=davjosia&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl)]((https://github.com/anuraghazra/github-readme-stats))
 
 <!--
 **josiahdavis/josiahdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

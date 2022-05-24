@@ -11,7 +11,7 @@ I have a mixed background in STEM with a Bachelor's dergree in Mechanical Engine
 * 💻 Machine learning application development using Amazon Web Services.
 
 
-Recently, I left the consulting world, and took on a new focus in Amazon's Supply Chain Optimization Technology (SCOT) organization. In my new role I work on appliyng machine learning and reinforcement learning to the core selection process. My job is to figure out what customer's want in stock, and for Amazon to have it.
+Recently, I left the consulting world, and took on a new focus in Amazon's [Supply Chain Optimization Technology (SCOT)](https://www.youtube.com/watch?v=ncwsr1Of6Cw) organization. In my new role I work on appliyng machine learning and reinforcement learning to the core selection process. My job is to figure out what customer's want in stock, and for Amazon to have it.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiahdavis)](https://github.com/anuraghazra/github-readme-stats)
 

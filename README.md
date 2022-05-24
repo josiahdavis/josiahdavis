@@ -6,7 +6,7 @@ I have a mixed background in STEM with a Bachelor's dergree in Mechanical Engine
 * 🔍 Document summarization and processing using Natural Language Processing.
 * 🤖 Human in the loop chat bot development using Deep Learning.
 * 🚚 Routing optimization using Deep Reinforcement Learning ([code](https://github.com/aws-samples/amazon-sagemaker-tsp-deep-rl)).
-* 🏒 Sports analytics and prediction ([2021 article](https://www.sportsvideo.org/2021/10/25/nhl-deploys-analytics-powered-graphics-for-puck-player-tracking-in-live-broadcast/) [2022 article](https://apnews.com/article/nhl-technology-sports-hockey-1cd9ab11ed1c5311ec853e11dd58c107)).
+* 🏒 Sports analytics and prediction ([2021](https://www.sportsvideo.org/2021/10/25/nhl-deploys-analytics-powered-graphics-for-puck-player-tracking-in-live-broadcast/), [2022](https://apnews.com/article/nhl-technology-sports-hockey-1cd9ab11ed1c5311ec853e11dd58c107)).
 * 📈 Electricity and gas consumption forecasting.
 * 💻 Machine learning application development using Amazon Web Services ([code](https://github.com/awslabs/mlmax/)).
 

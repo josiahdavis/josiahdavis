@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a mixed background in STEM with a Bachelor's dergree in Mechanical Engineering from University of Maryland, and a Master's degree in Statistics from University of Berkeley. I got my start in Data Science as a conusltant doing process improvement for the Department of Veteran Affairs, and I've been doing consulting in some form or fashion for the psat 10+ years. During this time I've worked on a wide variety of projects:
+I have a mixed background in STEM with a Bachelor's dergree in Mechanical Engineering from University of Maryland, and a Master's degree in Statistics from University of Berkeley. I got my start in Data Science as a conusltant doing process improvement for the Department of Veteran Affairs, and I've been doing Machine Learning consulting in some form or fashion for the psat 10+ years. During this time I've worked on a wide variety of projects:
 
 * 🏭 Industrial and Manufacturing Computer Vision.
 * 🔍 Document summarization and processing using Natural Language Processing.
@@ -25,4 +25,4 @@ Recently, I left the consulting world, and took on a new focus in Amazon's Suppl
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤖
+

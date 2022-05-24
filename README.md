@@ -5,10 +5,10 @@ I have a mixed background in STEM with a Bachelor's dergree in Mechanical Engine
 * 🏭 Industrial and Manufacturing Computer Vision.
 * 🔍 Document summarization and processing using Natural Language Processing.
 * 🤖 Human in the loop chat bot development using Deep Learning.
-* 🚚 Routing optimization using Deep Reinforcement Learning.
-* 🏒 Sports analytics and prediction.
+* 🚚 Routing optimization using Deep Reinforcement Learning ([code](https://github.com/aws-samples/amazon-sagemaker-tsp-deep-rl)).
+* 🏒 Sports analytics and prediction ([2021 article](https://www.sportsvideo.org/2021/10/25/nhl-deploys-analytics-powered-graphics-for-puck-player-tracking-in-live-broadcast/) [2022 article](https://apnews.com/article/nhl-technology-sports-hockey-1cd9ab11ed1c5311ec853e11dd58c107)).
 * 📈 Electricity and gas consumption forecasting.
-* 💻 Machine learning application development using Amazon Web Services.
+* 💻 Machine learning application development using Amazon Web Services ([code](https://github.com/awslabs/mlmax/)).
 
 
 Recently, I left the consulting world, and took on a new focus in Amazon's [Supply Chain Optimization Technology (SCOT)](https://www.youtube.com/watch?v=ncwsr1Of6Cw) organization. In my new role I work on appliyng machine learning and reinforcement learning to the core selection process. My job is to figure out what customer's want in stock, and for Amazon to have it.
